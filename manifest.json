@@ -1,0 +1,22 @@
+{
+    "name" : "My Weather Today",
+    "short_name" : "Weather Today",
+    "start_url" : "/index.html",
+    "background_color" : "#5A809c",
+    "theme_color" : "#4F6638",
+    "orientation" : "any",
+    "display" : "standalone",
+    "icons" : [
+        {
+        "src" : "images/03d.png",
+        "type" : "image/png",
+        "sizes" : "192x192"
+    },
+
+    {
+        "src" : "images/03d512.png",
+        "type" : "image/png",
+        "sizes" : "512x512"
+    }
+]
+}
